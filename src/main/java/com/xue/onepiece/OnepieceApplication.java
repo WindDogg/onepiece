@@ -8,6 +8,7 @@ public class OnepieceApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(OnepieceApplication.class, args);
+        String a="hello world!";
     }
 
 }
